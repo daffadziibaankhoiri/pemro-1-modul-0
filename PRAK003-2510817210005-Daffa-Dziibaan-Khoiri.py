@@ -1,1 +1,0 @@
-print('Andi berkata "Saya Pasti Bisa" ')
